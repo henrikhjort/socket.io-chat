@@ -1,4 +1,4 @@
-## Chat application with React, Node and Socket.io
+## Chat application with React Native, Node and Socket.io
 ```
 cd server
 docker-compose up
