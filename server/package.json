@@ -1,0 +1,9 @@
+{
+	"name": "paskachat",
+	"version": "0.0.1",
+	"dependencies": {
+		"express": "^4.16.3",
+		"mongoose": "^5.2.8",
+		"socket.io": "^2.1.1"
+	}
+}
